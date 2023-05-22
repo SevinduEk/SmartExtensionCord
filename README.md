@@ -10,3 +10,15 @@
     <img src="/IMG_6466.jpg" alt="Smart Power Strip 2" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
+<div>
+
+<img src="/IMG_6461.jpg/IMG_6461.jpg">
+
+</div>
+
+<div>
+
+<img src="/IMG_6461.jpg">
+
+</div>
