@@ -6,3 +6,5 @@
   <img src="/IMG_6461" width="100" />
   <img src="/IMG_6466" width="100" /> 
 </p>
+
+<img src="/IMG_6461" width="425"/> <img src="/IMG_6466" width="425"/> 
