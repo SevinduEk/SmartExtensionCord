@@ -4,9 +4,9 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 50%; padding: 5px;">
-    <img src="/IMG_6461.jpg" alt="Smart Power Strip" style="max-width: 100%;">
+    <img src="/IMG_6461.jpg" alt="Smart Power Strip" width="400" height="300">
   </div>
   <div style="flex: 50%; padding: 5px;">
-    <img src="/IMG_6466.jpg" alt="Smart Power Strip 2" style="max-width: 100%;">
+    <img src="/IMG_6466.jpg" alt="Smart Power Strip 2" width="400" height="300">
   </div>
 </div>
